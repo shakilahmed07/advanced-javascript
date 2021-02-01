@@ -1,13 +1,4 @@
-let javascript = {
-  name: `javascript`,
-  library: [`React`, `Vue`, `Angular`],
-  printLibrary: function () {
-    this.library.forEach((a) => console.log(`${this.name} loves ${a}`));
-  },
-};
-
-// javascript.printLibrary();
-
+// this
 let bookName = {
   name: `Book`,
   bookList: [`Math`, `English`, `ICT`],
