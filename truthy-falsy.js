@@ -10,7 +10,7 @@
 // example
 let number = {}; // truthy value / falsy value
 if (number) {
-  console.log(`truthy value`);
+  console.log(`truthy value`); // show truthy value
 } else {
   console.log(`falsy value`);
 }
